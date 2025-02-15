@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Trying out my own post"
+date:   2025-02-15 16:44:57 -0600
+categories: jekyll update
+---
+# {{ page.title }}
+This is my first post. I'm trying out Jekyll.
+
+Testing out some markdown features:
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
